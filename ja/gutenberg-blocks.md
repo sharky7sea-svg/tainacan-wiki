@@ -24,7 +24,7 @@ Tainacanもこの機能を取り入れ、リポジトリで生成されるコン
 
 ブロックを使用するには、投稿または固定ページを編集し、利用可能なブロックの一覧からTainacanのブロックを探すだけです。次のブロックがあります。
 
-- [アイテム一覧（Items List）](/ja/blocks-items#アイテム一覧) _（静的）_;
+- [アイテム一覧（Items List）](/ja/blocks-items) _（静的）_;
 - [コレクション一覧（Collections List）](/ja/blocks-collections#コレクション一覧) _（静的）_;
 - [ターム一覧（Terms List）](/ja/blocks-terms#ターム一覧) _（静的）_;
 - [コレクションのアイテム一覧（Collection Items List）](/ja/blocks-items#コレクションのアイテム一覧);
