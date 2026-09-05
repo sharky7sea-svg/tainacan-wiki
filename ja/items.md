@@ -1,21 +1,22 @@
-> [!NOTE] This page is in *Brazilian Portuguese* only so far. **If you can, please help us translate it to *English*.**
+> [!NOTE]
+> このページの原文は*ブラジルポルトガル語*で提供されています。
 
-# Itens
+# アイテム
 
-Os **itens** são o verdadeiro conteúdo do repositório. A *pintura*, o *filme*, o *livro* e assim por diante. Estes itens são da uma coleção e possuem todos os metadados configurados à **coleção** a qual pertencem.
+**アイテム**はリポジトリの本当のコンテンツです。*絵画*、*映画*、*本*などが該当します。これらのアイテムはコレクションに属し、所属する**コレクション**に設定されたすべてのメタデータを持ちます。
 
-> Na linguagem do *WordPress*, cada item é um **post** e seu tipo de postagem representa sua **coleção**.
+> *WordPress*の用語では、各アイテムは**投稿**であり、その投稿タイプが**コレクション**を表します。
 
-O **Item** é o conjunto de um documento (*mídia*, *texto* ou *URL*), seus metadados e também eventuais documentos em anexo.
+**アイテム**は、ドキュメント（*メディア*、*テキスト*、*URL*）、そのメタデータ、さらに添付されている可能性のあるドキュメントを合わせたものです。
 
-Um item sempre pertencerá a uma determinada coleção e, durante seu envio serão preenchidos os metadados herdados pelo repositório ou coleção acima e também os metadados configurados na coleção a qual irá pertencer.
+アイテムは必ず特定のコレクションに属し、投稿時には、リポジトリまたは上位のコレクションから継承したメタデータと、所属先のコレクションに設定されたメタデータが入力されます。
 
 <!-- tabs:start -->
 
-#### ** Criar **
-## Criar Itens
+#### ** 作成 **
+## アイテムの作成
 
-### Vídeo Tutorial: Criação de Itens
+### チュートリアル動画：アイテムの作成
 
 <iframe
     width="560"
@@ -26,64 +27,64 @@ Um item sempre pertencerá a uma determinada coleção e, durante seu envio ser�
     allowfullscreen>
 </iframe>
 
-1. Acesse o painel de controle do *WordPress*;
-2. Na barra lateral esquerda, clique em Tainacan;
-3. Na seção **Coleções**, clique na coleção desejada;
-4. Clique em `adicionar novo` no canto superior esquerdo.
-  * Clique em `adicionar um item` para enviar apenas um item
-  * Ou clique em `adicionar itens em massa` para adicionar itens em lote. (Consulte [Ações em Massa](/pt-br/bulk-edition) para saber mais)
-  * Ou clique em `importar itens` para adicionar um grande lote de itens (Consulte [Ações em Massa](/pt-br/bulk-edition) para saber mais)
-5. Escolha o tipo de mídia que irá compor o Item:
-  * **Arquivo**: faça o upload de arquivos multimídia como *Imagens*, *Áudios*, *Arquivos de Texto*, *Vídeos*, etc. (Consulte [este artigo](https://imasters.com.br/back-end/como-incorporar-arquivos-de-audio-e-video-no-wordpress) sobre a compatibilidade de arquivos do WordPress)
-    * Selecione o arquivo da *biblioteca de mídia* ou faça o *Upload* a partir do seu computador;
-  * **Texto simples**: Um campo para inserção de texto sem formatação;
-  * **URL**: permite a incorporação de links (*embed*) multimídia de vários sites (como *YouTube*, *Vimeo*, etc.);
-6. Determine a privacidade do item nas opções de visibilidade:
-  * **Visível para todos**: o item será visualizado por todos (A depender dos parâmetros de privacidade da coleção);
-  * **Visível apenas para editores**: visível apenas para editores da coleção. (Consulte [Permissões de Usuários](/pt-br/users) para saber mais);
-7. Defina uma miniatura para o item;
-  1. Clique no ícone **lápis** no quadrado que ilustra a miniatura;
-  2. Selecione o arquivo da *biblioteca de mídia* ou faça o *Upload* a partir do seu computador:
-    * Alguns tipos de documento como arquivos em *.pdf*, imagens, vídeos, URLs, etc. geram sua própria miniatura automaticamente.
-    * Mesmo nestes casos é possível alterar a miniatura normalmente.
-8. Defina se o item poderá receber comentários:
-  * Os comentários podem ser geridos na seção de comentários do *painel do WordPress* (saiba mais na [documentação do WordPress](https://codex.wordpress.org/pt-br:Painel_Coment%C3%A1rios)).
-9. Preencha os campos disponíveis na seção de metadados:
-  1. Cada coleção oferecerá um conjunto de metadados para preenchimento de acordo com as configurações de metadados do repositório e da coleção (Consulte [Metadados](/pt-br/metadata) e [Coleções](/pt-br/collections) para saber mais) .
-  2. Metadados configurados como **obrigatórios** não permitirão que o item seja salvo como *rascunho* ou *publicado* caso não estejam preenchidos. (Consulte [Metadados](/pt-br/metadata) e [Coleções](/pt-br/collections) para saber mais)
-10. Para concluir a criação do item escolha:
-  * `Salvar como Rascunho`: O item não será publicado na coleção, mas ficará salvo na coleção como **Rascunho**.
-  * `Publicar`: O item será publicado na coleção.
-  * `Descartar`: para cancelar a criação do item.
+1. *WordPress*の管理画面にアクセスします;
+2. 左側のサイドバーで、Tainacanをクリックします;
+3. **コレクション**セクションで、目的のコレクションをクリックします;
+4. 左上の`新規追加（adicionar novo）`をクリックします。
+  * `アイテムを追加（adicionar um item）`をクリックすると、1件のアイテムだけを投稿できます。
+  * `アイテムを一括追加（adicionar itens em massa）`をクリックすると、アイテムを一括で追加できます。（詳しくは[一括操作](/ja/bulk-actions)を参照してください）
+  * `アイテムをインポート（importar itens）`をクリックすると、大量のアイテムを追加できます。（詳しくは[一括操作](/ja/bulk-actions)を参照してください）
+5. アイテムを構成するメディアタイプを選択します:
+  * **ファイル**：*画像*、*音声*、*テキストファイル*、*動画*などのマルチメディアファイルをアップロードします。（WordPressのファイル互換性については[この記事](https://imasters.com.br/back-end/como-incorporar-arquivos-de-audio-e-video-no-wordpress)を参照してください）
+    * *メディアライブラリ*からファイルを選択するか、コンピューターから*アップロード*します;
+  * **プレーンテキスト**：書式なしのテキストを入力するフィールドです;
+  * **URL**：さまざまなサイト（*YouTube*、*Vimeo*など）のマルチメディアリンクを*埋め込み*できます;
+6. 表示オプションでアイテムの公開状態を設定します:
+  * **すべてのユーザーに表示**：すべてのユーザーにアイテムが表示されます（コレクションの公開設定によります）;
+  * **編集者にのみ表示**：コレクションの編集者にのみ表示されます。（詳しくは[ユーザー権限](/ja/users-roles)を参照してください）;
+7. アイテムのサムネイルを設定します;
+  1. サムネイルを表示する四角形の**鉛筆**アイコンをクリックします;
+  2. *メディアライブラリ*からファイルを選択するか、コンピューターから*アップロード*します:
+    * *.pdf*ファイル、画像、動画、URLなど、一部のドキュメントタイプはサムネイルを自動的に生成します。
+    * この場合でも、通常どおりサムネイルを変更できます。
+8. アイテムにコメントを受け付けるかどうかを設定します:
+  * コメントは*WordPress管理画面*のコメントセクションで管理できます（詳しくは[WordPressのドキュメント](https://codex.wordpress.org/pt-br:Painel_Coment%C3%A1rios)を参照してください）。
+9. メタデータセクションで利用可能なフィールドに入力します:
+  1. 各コレクションには、リポジトリとコレクションのメタデータ設定に応じて、入力するメタデータのセットがあります。（詳しくは[メタデータ](/ja/metadata)と[コレクション](/ja/collections)を参照してください）
+  2. **必須**として設定されたメタデータが入力されていない場合、アイテムを*下書き*または*公開*として保存することはできません。（詳しくは[メタデータ](/ja/metadata)と[コレクション](/ja/collections)を参照してください）
+10. アイテムの作成を完了するには、次のいずれかを選択します:
+  * `下書きとして保存（Salvar como Rascunho）`：アイテムはコレクションで公開されませんが、**下書き**としてコレクションに保存されます。
+  * `公開（Publicar）`：アイテムがコレクションで公開されます。
+  * `破棄（Descartar）`：アイテムの作成をキャンセルします。
 
-#### ** Editar **
-## Editar Itens
+#### ** 編集 **
+## アイテムの編集
 
-1. Acesse o painel de controle do WordPress;
-2. Na barra lateral esquerda, clique em Tainacan;
-3. Na seção **coleções**, clique na na coleção desejada;
-4. Na listagem de **itens** selecione o item que deseja editar;
-5. O item será exibido junto com suas respectivas informações:
-6. Selecione `Editar Item` para modificar suas informações;
-  * Ou selecione `Ver Item` para visualizar o item no tema do seu site;
-7. Todos parâmetros do **Item** podem ser alterados, inclusive o tipo de documento que o compõe.
-  * Itens **não** podem ser migrados de uma coleção para outra.
-8. Para concluir a edição do item escolha:
-  * `Enviar para a lixeira`: para excluir o item e suas informações;
-  * `Voltar para rascunho`: para transformar o item em um rascunho;
-  * `Atualizar`: para salvar as alterações.
+1. WordPressの管理画面にアクセスします;
+2. 左側のサイドバーで、Tainacanをクリックします;
+3. **コレクション**セクションで、目的のコレクションをクリックします;
+4. **アイテム**一覧で、編集するアイテムを選択します;
+5. アイテムとそれぞれの情報が表示されます:
+6. 情報を変更するには`アイテムを編集（Editar Item）`を選択します;
+  * アイテムをサイトのテーマで表示するには、`アイテムを表示（Ver Item）`を選択します;
+7. **アイテム**のすべてのパラメータを変更できます。アイテムを構成するドキュメントタイプも変更できます。
+  * アイテムを別のコレクションへ移行することは**できません**。
+8. アイテムの編集を完了するには、次のいずれかを選択します:
+  * `ゴミ箱へ移動（Enviar para a lixeira）`：アイテムとその情報を削除します;
+  * `下書きに戻す（Voltar para rascunho）`：アイテムを下書きに変更します;
+  * `更新（Atualizar）`：変更を保存します。
 
-#### ** Excluir **
-## Excluir Itens
+#### ** 削除 **
+## アイテムの削除
 
-1. Acesse o painel de controle do *WordPress*
-2. Na barra lateral esquerda, clique em Tainacan;
-3. Na seção de **Coleções**, clique na na coleção desejada;
-4. Na listagem de itens clique no ícone de lixeira à direita do item que deseja excluir;    
+1. *WordPress*の管理画面にアクセスします
+2. 左側のサイドバーで、Tainacanをクリックします;
+3. **コレクション**セクションで、目的のコレクションをクリックします;
+4. アイテム一覧で、削除するアイテムの右側にあるゴミ箱アイコンをクリックします;    
 
   > [!WARNING]
-  > **Atenção**: a exclusão do item implica também na exclusão do documento, informações nos metadados e anexos. Esta operação só poderá ser desfeita por administradores. (Consulte [Registro de atividades para](/pt-br/activities) para saber mais).
+  > **注意**：アイテムを削除すると、ドキュメント、メタデータの情報、添付ファイルも削除されます。この操作を元に戻せるのは管理者だけです。（詳しくは[アクティビティログ](/ja/activities)を参照してください）。
   >
-  > **Atenção**: Exclua o item somente se tiver certeza de que não haverá perdas graves de informação (Consulte [Registro de atividades para](/pt-br/activities) saber mais).
+  > **注意**：重大な情報が失われないと確信できる場合にのみ、アイテムを削除してください。（詳しくは[アクティビティログ](/ja/activities)を参照してください）。
 
 <!-- tabs:end -->
