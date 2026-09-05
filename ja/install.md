@@ -4,9 +4,9 @@
 
 TainacanプロジェクトはWordPressのプラグインです。そのため、インストールする場合、最初に稼働するWordPress環境を用意する必要があります。
 
-まだ用意していない、または作成方法がわからない場合は、まず[マシンにXAMPPなどのWebサーバーをインストール](/ja/xampp)できます。その後、[WordPressをインストールして設定](/wordpress)できます。
+まだ用意していない、または作成方法がわからない場合は、まず[マシンにXAMPPなどのWebサーバーをインストール](/ja/xampp)できます。その後、[WordPressをインストールして設定](/ja/wordpress)できます。
 
-WordPressのインストールが完了したら、Tainacanをインストールできます。管理画面の「プラグイン」(Plugins)セクションに移動し、Tainacanを検索して「インストール」(Install)をクリックするだけです。簡単です。まだ質問がある場合は、[Tainacanのインストールチュートリアル](/tainacan)を参照してください。
+WordPressのインストールが完了したら、Tainacanをインストールできます。管理画面の「プラグイン」(Plugins)セクションに移動し、Tainacanを検索して「インストール」(Install)をクリックするだけです。簡単です。まだ質問がある場合は、[Tainacanのインストールチュートリアル](/ja/tainacan)を参照してください。
 
 Tainacanはまだベータ版であり、テストおよび実験目的でのみ公開されていることに注意してください。
 
@@ -14,7 +14,7 @@ Tainacanはまだベータ版であり、テストおよび実験目的でのみ
 
 [公式WordPressリポジトリ](https://wordpress.org/plugins/tainacan)からTainacanをダウンロードするか、WordPressダッシュボード (Dashboard)から直接インストールしてください。[Githubページ](https://github.com/tainacan/tainacan)も参照できます。
 
-手順に沿ったインストールについては、[Tainacanのインストールチュートリアル](tainacan#how-to-install-the-tainacan-plugin-on-wordpress)を参照してください。
+手順に沿ったインストールについては、[Tainacanのインストールチュートリアル](/ja/tainacan#wordpressにtainacanプラグインをインストールする方法)を参照してください。
 
 ## Tainacanのデフォルトテーマ ##
 
@@ -22,7 +22,7 @@ TainacanはどのWordPressテーマでも動作します。ただし、そのす
 
 [公式WordPressリポジトリ](https://wordpress.org/themes/tainacan-interface)から「Tainacan Interface」テーマをダウンロードするか、WordPressダッシュボード (Dashboard)から直接インストールしてください。[Githubページ](https://github.com/tainacan/tainacan-theme)も参照できます。
 
-手順に沿ったインストールについては、[テーマのインストールチュートリアル](theme#tema)を参照してください。
+手順に沿ったインストールについては、[テーマのインストールチュートリアル](/ja/theme)を参照してください。
 
 ## 開発版のダウンロード ##
 

@@ -2,7 +2,7 @@
 
 <br>
 
-**WordPress**のインストールに続いて、ここでは**Tainacan**のインストールを開始します。まだ**WordPress**をインストールしていない場合は、[WordPressをWindowsにインストールする方法のチュートリアル](/pt-br/wordpress#como-instalar-o-wordpress-no-windows)を参照してください。ローカルマシンにWebサーバーがまだない場合は、[このチュートリアル](/ja/xampp)を参照してください。
+**WordPress**のインストールに続いて、ここでは**Tainacan**のインストールを開始します。まだ**WordPress**をインストールしていない場合は、[WordPressをWindowsにインストールする方法のチュートリアル](/ja/wordpress#windowsのxamppサーバーにwordpressをインストールする方法)を参照してください。ローカルマシンにWebサーバーがまだない場合は、[このチュートリアル](/ja/xampp)を参照してください。
 
 同じチュートリアルを動画で見ることもできます。
 * [XAMPP](https://www.youtube.com/watch?v=rznX0EZhWG4)

@@ -8,7 +8,7 @@
 
 ## インストール
 
-[.zip](https://github.com/tainacan/wp-plugin-tainacan-pdf-generate/archive/master.zip)ファイルを[GitHubリポジトリ](https://github.com/tainacan/wp-plugin-tainacan-pdf-generate)からダウンロードし、[プラグインのインストール手順](/ja/plugins)に記載されたインストール手順に従ってください。
+[.zip](https://github.com/tainacan/wp-plugin-tainacan-pdf-generate/archive/master.zip)ファイルを[GitHubリポジトリ](https://github.com/tainacan/wp-plugin-tainacan-pdf-generate)からダウンロードし、[プラグインのインストール手順](/ja/plugins#プラグインのインストール)に記載されたインストール手順に従ってください。
 
 WordPress管理画面のプラグインセクションで、このプラグインを有効化します。
 
