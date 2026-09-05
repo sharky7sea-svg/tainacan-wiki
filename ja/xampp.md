@@ -3,7 +3,7 @@
 <br>
 
 **Tainacan**は**WordPress**の**プラグイン**です。何もインストールされていない場合、使用するには次の3つの簡単なインストールを行う必要があります。
-1. マシン上のWebサーバー。ここでは[WindowsにXAMPPをインストールする方法](#downloading)を説明します。
+1. マシン上のWebサーバー。ここでは[WindowsにXAMPPをインストールする方法](#ダウンロード)を説明します。
 2. **WordPress**。[XAMPPサーバー（Windows）にWordPressをインストールする方法](wordpress#how-to-install-wordpress-on-windows)を参照してください。
 3. **Tainacan**プラグイン。[WordPressにTainacanをインストールする方法](tainacan#how-to-install-the-tainacan-plugin-on-wordpress)を説明しています。
 
