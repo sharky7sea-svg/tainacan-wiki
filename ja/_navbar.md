@@ -1,6 +1,7 @@
-- [Oficial website](https://tainacan.org ":ignore")
-- [Community forum](https://tainacan.discourse.group ":ignore")
-- Language
+- [公式サイト](https://tainacan.org ":ignore")
+- [コミュニティフォーラム](https://tainacan.discourse.group ":ignore")
+- 言語
+  - [日本語](/ja/README#tainacan-wiki)
   - [English](/README#tainacan-wiki)
-  - [Brazilian Portuguese](/pt-br/README#wiki-do-tainacan)
-  - [Mexican Spanish](/es-mx/README#wiki-de-tainacan)
+  - [Português Brasileiro](/pt-br/README#wiki-do-tainacan)
+  - [Español Mexicano](/es-mx/README#wiki-de-tainacan)
