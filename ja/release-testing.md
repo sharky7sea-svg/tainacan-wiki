@@ -39,16 +39,16 @@
 
 <div style="column-count: 2; column-width: 250px;">
 
-- [コレクション](/pt-br/testing-collections.md)
-- [タクソノミー](/pt-br/testing-taxonomies.md)
-- [メタデータ](/pt-br/testing-metadata.md)
-- [フィルター](/pt-br/testing-filters.md)
-- [アイテム](/pt-br/testing-items.md)
-- [ファセット検索](/pt-br/testing-search.md)
-- [インポーター](/pt-br/testing-importers.md)
-- [エクスポーター](/pt-br/testing-exporters.md)
-- [権限](/pt-br/testing-capabilities.md)
-- [Gutenbergブロック](/pt-br/testing-gutenberg-blocks.md)
-- [アイテム投稿](/pt-br/testing-item-submission.md)
+- [コレクション](/ja/testing-collections)
+- [タクソノミー](/ja/testing-taxonomies)
+- [メタデータ](/ja/testing-metadata)
+- [フィルター](/ja/testing-filters)
+- [アイテム](/ja/testing-items)
+- [ファセット検索](/ja/testing-search)
+- [インポーター](/ja/testing-importers)
+- [エクスポーター](/ja/testing-exporters)
+- [権限](/ja/testing-capabilities)
+- [Gutenbergブロック](/ja/testing-gutenberg-blocks)
+- [アイテム投稿](/ja/testing-item-submission)
 
 </div>
